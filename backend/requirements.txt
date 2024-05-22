@@ -1,0 +1,6 @@
+Flask
+roboflow
+ultralytics
+flask-cors
+flask-socketio
+flask-socketio

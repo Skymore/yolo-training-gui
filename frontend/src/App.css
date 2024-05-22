@@ -1,0 +1,22 @@
+.layout {
+  min-height: 100vh;
+}
+
+.layout .ant-layout-header {
+  background: #001529;
+  color: white;
+  text-align: center;
+}
+
+.layout .ant-layout-content {
+  padding: 50px;
+  background: #fff;
+}
+
+.ant-card {
+  margin-bottom: 20px;
+}
+
+button + button {
+  margin-top: 10px;
+}
